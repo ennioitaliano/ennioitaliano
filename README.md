@@ -2,7 +2,7 @@
 
 🇮🇹 I'm a Computer Science student from Italy, also working as a developer for  platforms.
 
-👨🏻‍💻 Right now I feel proficient working with Swift and SwiftUI, but I also happen to write some Kotlin (Multiplatform) code.
+👨🏻‍💻 I work proficiently with Swift and SwiftUI, and I also happen to write some Kotlin (Multiplatform) code.
 
 📱 In the past I got my hands dirty with
 - Java, C++, Qt for some academic projects
