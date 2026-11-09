@@ -8,7 +8,6 @@ At the moment, I’m exploring backend/full-stack development, with a particular
 
 Over the years, I’ve worked on personal, academic, and professional projects. Here’s what I’m working on right now:
 - A [Python Telegram bot](https://github.com/ennioitaliano/carlobot) that records financial transactions in my Google Sheet using Jev, Gemini, and Google Sheets APIs 🤑.
-- My personal website/blog, built with Django, HTML, and Tailwind CSS 🌐.
 - A C++ solver for the Vehicle Relocation Problem that uses Tabu Search and Dijkstra’s algorithm, as part of my master’s thesis 🛴.
 
 Also, a shout out to [Auto Glossary](https://github.com/ennioitaliano/obsidian-auto-glossary), an Obsidian plugin I vibe-coded in TypeScript, with 350 downloads and counting, and to the mobile apps I really enjoyed building with Swift, SwiftUI, and Kotlin Multiplatform during my time at Var Group.
