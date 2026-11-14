@@ -7,6 +7,7 @@ I’m a Master’s student in Computer Science with nearly three years of profes
 At the moment, I’m exploring backend/full-stack development, with a particular interest in Python 🐍.
 
 Over the years, I’ve worked on personal, academic, and professional projects. Here’s what I’m working on right now:
+- An [extension](https://github.com/ennioitaliano/pi-local-bulk-reader) for the Pi agent harness that reduces cloud token usage by routing bulk file analysis to local models through LM Studio. 🧠
 - A [Python Telegram bot](https://github.com/ennioitaliano/carlobot) that records financial transactions in my Google Sheet using Jev, Gemini, and Google Sheets APIs 🤑.
 - A C++ solver for the Vehicle Relocation Problem that uses Tabu Search and Dijkstra’s algorithm, as part of my master’s thesis 🛴.
 
